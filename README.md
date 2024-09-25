@@ -1,5 +1,3 @@
 # Bibliotecas
 
-# numpay
-# matplotlib
-# sklearn
+#numpay matplotlib sklearn
