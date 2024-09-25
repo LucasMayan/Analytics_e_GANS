@@ -1,4 +1,4 @@
-# Analytics_e_GANS
+# Bibliotecas
 
 # numpay
 # matplotlib
